@@ -1,3 +1,7 @@
 .vs/
 Debug/
-INPUT.txt
+*.txt
+KWIC.sln
+KWIC.vcxproj
+KWIC.vcxproj.filters
+KWIC.vcxproj.user
